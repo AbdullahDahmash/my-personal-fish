@@ -1,3 +1,5 @@
+set fish_greeting
+
 fundle plugin 'FabioAntunes/fish-nvm'
 fundle plugin 'edc/bass'
 fundle plugin 'rbenv/fish-rbenv'
