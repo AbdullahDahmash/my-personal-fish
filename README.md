@@ -1,7 +1,7 @@
 
 Pull fish config
 ```fish
-git clone git@github.com:AbdullahDahmash/my-personal-fish.git ~/.config/fish
+git clone https://github.com/AbdullahDahmash/my-personal-fish.git ~/.config/fish
 
 ```
 
