@@ -8,3 +8,4 @@ fundle init
 export EDITOR="vim"
 alias gst="git status"
 alias v="vim"
+alias dj="django-admin"
